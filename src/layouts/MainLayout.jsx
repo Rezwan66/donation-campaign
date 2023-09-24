@@ -1,7 +1,9 @@
+import NavBar from '../components/NavBar/NavBar';
+
 const MainLayout = () => {
   return (
     <div>
-      <div>Hello world!</div>
+      <NavBar></NavBar>
     </div>
   );
 };
