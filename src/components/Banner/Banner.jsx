@@ -2,7 +2,7 @@ const Banner = () => {
   return (
     <div>
       <div
-        className="hero h-[480px]"
+        className="hero h-[480px] mb-20"
         style={{
           backgroundImage: 'url(https://i.ibb.co/6wjN83X/Rectangle-4281.png)',
         }}
@@ -17,7 +17,7 @@ const Banner = () => {
               <input
                 type="text"
                 name="searchTerm"
-                className="input input-bordered join-item w-80"
+                className="input input-bordered join-item md:w-80"
                 placeholder="Search here..."
               />
               <button className="btn px-7 py-4 bg-[#FF444A] capitalize text-white join-item rounded-r-lg">
