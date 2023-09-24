@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/NjP0kSm/health.jpg",
+    "title": "Medical Supplies for Children",
+    "category": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Support underprivileged children by donating to provide essential medical supplies. Your contribution ensures access to life-saving treatments, medications, and medical equipment, making a significant difference in their lives. Together, we can create a healthier future for the next generation and give them the care they deserve. Help provide essential medical care and support to elderly individuals requiring specialized attention. Your donation ensures seniors receive medical check-ups, medications, and compassionate care. Together, we enhance their quality of life.",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/pxVMY2Z/education.jpg",
+    "title": "Scholarship Fund for Underprivileged Students",
+    "category": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "Empower underprivileged students with quality education by contributing to our scholarship fund. Your donation paves the way for dreams to come true by providing access to higher education and knowledge. Together, we break barriers and ensure equal opportunities for all. Empower rural education by donating to our cause. Your support improves access to quality education in remote areas. Your donation builds schools, provides learning materials, and supports teachers in rural communities. Together, we bridge the education gap.",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/HYjrxmM/clothing.jpg",
+    "title": "Warm Clothing Drive for Winter",
+    "category": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Join our campaign to collect warm clothing for those in need during the cold winter months. Your contribution provides winter coats, jackets, and blankets, keeping individuals warm and comfortable. Together, we make winter a season of warmth and compassion. Join us in providing warm and nourishing meals to homeless individuals in our community. Your donation can make a difference by offering hot meals and a sense of comfort during difficult times. Together, we can offer warmth and hope to those in need.",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/60LWd2g/food.jpg",
+    "title": "Emergency Food Relief Program",
+    "category": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F8714726",
+    "text_color": "#F87147",
+    "description": "Help families facing food insecurity by providing nutritious meals. Your donation ensures essential food supplies, preventing anyone from going to bed hungry. Together, we combat hunger and provide a lifeline to those in need. Help ensure that children in need have access to regular meals. Your contribution can alleviate hunger among the young by providing nutritious food items. Together, we can give children the nourishment they deserve for a brighter future.",
+    "price": 40
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/60LWd2g/food.jpg",
+    "title": "Nutritional Support for Children",
+    "category": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F8714726",
+    "text_color": "#F87147",
+    "description": "Support underprivileged children with balanced meals, helping them grow healthy and strong. Your donation ensures access to vital vitamins and nutrients, nurturing young minds and bodies. Together, we combat hunger and provide a lifeline to those in need. Help ensure that children in need have access to regular meals. Your contribution can alleviate hunger among the young by providing nutritious food items. Together, we provide a brighter future. Together, we combat hunger and provide a lifeline to those in need.",
+    "price": 25
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/HYjrxmM/clothing.jpg",
+    "title": "Clothing for Homeless Veterans",
+    "category": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Contribute to our campaign providing warm clothing and essentials to homeless veterans who have served our country. Your donation keeps veterans warm during cold nights and offers essential clothing items. Together, we honor their service and ensure their well-being. Join us in providing warm and nourishing meals to homeless individuals in our community. Your donation can make a difference by offering hot meals and a sense of comfort during difficult times. Together, we can offer warmth and hope to those in need.",
+    "price": 35
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/pxVMY2Z/education.jpg",
+    "title": "Supporting Rural Education",
+    "category": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "Empower rural education by donating to our cause. Your support improves access to quality education in remote areas. Your donation builds schools, provides learning materials, and supports teachers in rural communities. Together, we bridge the education gap. Ensure access to educational resources for all students, regardless of their background or circumstances. Support equitable education by providing books, computers, and educational tools. Together, we empower the next generation to achieve their dreams.",
+    "price": 30
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/NjP0kSm/health.jpg",
+    "title": "Medical Care for Elderly",
+    "category": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Help provide essential medical care and support to elderly individuals requiring specialized attention. Your donation ensures seniors receive medical check-ups, medications, and compassionate care. Together, we enhance their quality of life. Support underprivileged children by donating to provide essential medical supplies. Your contribution ensures access to life-saving treatments, medications, and medical equipment, making a significant difference in their lives. Together, we can create a healthier future for the next generation and give them the care they deserve.",
+    "price": 55
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/NjP0kSm/health.jpg",
+    "title": "Empowering Healthcare Workers",
+    "category": "Health",
+    "category_bg": "#0052FF",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "Support healthcare workers on the front lines by contributing to their training and provision of essential medical supplies. Your donation strengthens the healthcare workforce, ensuring they have the tools and knowledge to save lives. Help provide essential medical care and support to elderly individuals requiring specialized attention. Your donation ensures seniors receive medical check-ups, medications, and compassionate care. Together, we enhance their quality of life. Support underprivileged children by donating to provide essential medical supplies. Together, we protect our communities.",
+    "price": 40
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/pxVMY2Z/education.jpg",
+    "title": "Educational Resources for All",
+    "category": "Education",
+    "category_bg": "#FF444A",
+    "card_bg": "#FF444A26",
+    "text_color": "#FF444A",
+    "description": "Ensure access to educational resources for all students, regardless of their background or circumstances. Support equitable education by providing books, computers, and educational tools. Together, we empower the next generation to achieve their dreams. Empower rural education by donating to our cause. Your support improves access to quality education in remote areas. Your donation builds schools, provides learning materials, and supports teachers in rural communities. Together, we bridge the education gap.",
+    "price": 25
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/HYjrxmM/clothing.jpg",
+    "title": "Warm Meals for the Homeless",
+    "category": "Clothing",
+    "category_bg": "#79C23F",
+    "card_bg": "#79C23F26",
+    "text_color": "#79C23F",
+    "description": "Join us in providing warm and nourishing meals to homeless individuals in our community. Your donation can make a difference by offering hot meals and a sense of comfort during difficult times. Together, we can offer warmth and hope to those in need. Contribute to our campaign providing warm clothing and essentials to homeless veterans who have served our country. Your donation keeps veterans warm during cold nights and offers essential clothing items. Together, we honor their service and ensure their well-being.",
+    "price": 15
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/60LWd2g/food.jpg",
+    "title": "Food for Children in Need",
+    "category": "Food",
+    "category_bg": "#F87147",
+    "card_bg": "#F8714726",
+    "text_color": "#F87147",
+    "description": "Help ensure that children in need have access to regular meals. Your contribution can alleviate hunger among the young by providing nutritious food items. Together, we can give children the nourishment they deserve for a brighter future. Help families facing food insecurity by providing nutritious meals. Your donation ensures essential food supplies, preventing anyone from going to bed hungry. Together, we combat hunger and provide a lifeline to those in need.",
+    "price": 30
+  }
+]
