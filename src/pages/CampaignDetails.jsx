@@ -11,7 +11,7 @@ const CampaignDetails = () => {
     const findCampaign = campaigns.find(cam => cam.id === +id);
     setCampaign(findCampaign);
   }, [campaigns, id]);
-  console.log(campaign);
+  // console.log(campaign);
   return (
     <div className="max-w-7xl mx-auto mt-8 px-4 lg:px-0">
       <DetailsCard campaign={campaign}></DetailsCard>
