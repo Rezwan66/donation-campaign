@@ -12,7 +12,7 @@ const DetailsCard = ({ campaign }) => {
       localStorage.setItem('donations', JSON.stringify(donatedArray));
       swal(
         'Awesome!',
-        `You have successfully donated $${price} to this campaign`,
+        `Thank you for donating $${price} to this campaign.`,
         'success'
       );
     } else {
@@ -22,11 +22,11 @@ const DetailsCard = ({ campaign }) => {
         localStorage.setItem('donations', JSON.stringify(donatedArray));
         swal(
           'Awesome!',
-          `You have successfully donated $${price} to this campaign`,
+          `Thank you for donating $${price} to this campaign.`,
           'success'
         );
       } else {
-        swal('Error!', 'You have already donated to this campaign !', 'error');
+        swal('Sorry!', 'You have already donated to this campaign !', 'error');
       }
     }
   };
