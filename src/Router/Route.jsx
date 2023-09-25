@@ -4,6 +4,7 @@ import ErrorPage from '../pages/ErrorPage';
 import Home from '../pages/Home';
 import Donation from '../pages/Donation';
 import Statistics from '../pages/Statistics';
+import CampaignDetails from '../pages/CampaignDetails';
 
 const route = createBrowserRouter([
   {
@@ -23,6 +24,11 @@ const route = createBrowserRouter([
       {
         path: '/statistics',
         element: <Statistics></Statistics>,
+      },
+      {
+        path: '/campaign/:id',
+        element: <CampaignDetails></CampaignDetails>,
+        loader: () => fetch('../../public/data.json'),
       },
     ],
   },
