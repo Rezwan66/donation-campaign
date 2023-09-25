@@ -27,7 +27,7 @@ const DonationCard = ({ donation }) => {
         </div>
         <div className="p-6">
           <p
-            className="mb-2 font-sans text-sm inline-flex leading-relaxed tracking-normal antialiased px-3 py-1 rounded-md"
+            className="mb-2 font-sans text-sm font-medium inline-flex leading-relaxed tracking-normal antialiased px-3 py-1 rounded-md"
             style={{ backgroundColor: category_bg, color: text_color }}
           >
             {category}
@@ -45,7 +45,7 @@ const DonationCard = ({ donation }) => {
 
           <Link to={`/campaign/${id}`}>
             <button
-              className="btn absolute bottom-0 md:bottom-6 capitalize px-4 py-2 rounded-[4px] text-white border-0"
+              className="btn absolute bottom-1 md:bottom-6 capitalize px-4 py-2 rounded-[4px] text-white border-0"
               style={{ backgroundColor: text_color }}
             >
               View Details
