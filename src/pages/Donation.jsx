@@ -13,7 +13,7 @@ const Donation = () => {
       setNotFound('No donations made yet!');
     }
   }, []);
-  console.log(donations);
+  // console.log(donations);
   return (
     <div className="max-w-7xl mx-auto mt-8">
       {notFound ? (

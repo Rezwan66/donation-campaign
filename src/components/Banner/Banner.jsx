@@ -1,4 +1,6 @@
-const Banner = () => {
+import PropTypes from 'prop-types';
+
+const Banner = ({ handleSearchTerm }) => {
   return (
     <div>
       <div
@@ -13,14 +15,14 @@ const Banner = () => {
             <h1 className="text-4xl lg:text-5xl text-black font-bold mb-10">
               I Grow By Helping People In Need
             </h1>
-            <form className="join">
+            <form onSubmit={handleSearchTerm} className="join">
               <input
                 type="text"
                 name="searchTerm"
-                className="input input-bordered join-item md:w-80"
+                className="input input-bordered text-[#0B0B0B] focus:outline-0 join-item md:w-80"
                 placeholder="Search here..."
               />
-              <button className="btn px-7 py-4 bg-[#FF444A] capitalize text-white join-item rounded-r-lg">
+              <button className="btn px-7 py-4 bg-[#FF444A] hover:text-[#0B0B0B] hover:bg-red-200 capitalize text-white join-item rounded-r-lg">
                 Search
               </button>
             </form>
@@ -29,6 +31,10 @@ const Banner = () => {
       </div>
     </div>
   );
+};
+
+Banner.propTypes = {
+  handleSearchTerm: PropTypes.func,
 };
 
 export default Banner;
