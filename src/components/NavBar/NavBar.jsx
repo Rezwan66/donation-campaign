@@ -4,7 +4,11 @@ const NavBar = () => {
   return (
     <div className="max-w-7xl mx-auto py-6 px-4 lg:px-0 flex justify-between items-center">
       <div>
-        <img className="w-56 lg:w-52" src="../../../public/Logo.png" alt="" />
+        <img
+          className="w-56 lg:w-52"
+          src="https://i.ibb.co/MgyB9vk/Logo.png"
+          alt=""
+        />
       </div>
       <div>
         <ul className="flex flex-col md:flex-row md:gap-8 gap-1">

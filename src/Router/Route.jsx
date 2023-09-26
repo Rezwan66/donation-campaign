@@ -15,7 +15,7 @@ const route = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>,
-        loader: () => fetch('../../public/data.json'),
+        loader: () => fetch('/data.json'),
       },
       {
         path: '/donation',
@@ -24,12 +24,12 @@ const route = createBrowserRouter([
       {
         path: '/statistics',
         element: <Statistics></Statistics>,
-        loader: () => fetch('../../public/data.json'),
+        loader: () => fetch('/data.json'),
       },
       {
         path: '/campaign/:id',
         element: <CampaignDetails></CampaignDetails>,
-        loader: () => fetch('../../public/data.json'),
+        loader: () => fetch('/data.json'),
       },
     ],
   },
