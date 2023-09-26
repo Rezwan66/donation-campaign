@@ -1,6 +1,6 @@
 # Donation Campaign Website
 
-A simple responsive SPA built using react router.
+A simple responsive website, where people can donate to various humanitarian campaigns. Built using react router, tailwind CSS and Daisy UI.
 
 ### Features:
 
@@ -11,3 +11,7 @@ A simple responsive SPA built using react router.
 - You can view all your past donations in the `Donation` page.
 - The donation page only shows upto 4 items by default. (Click the See All button to see more donations).
 - Visit the `Statistics` page to see an awesome visualization of your donations ratio compared to the total donation campaigns available.
+
+### Live Site:
+
+[Netlify](https://dazzling-zabaione-634b26.netlify.app/)
