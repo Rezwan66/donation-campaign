@@ -45,7 +45,7 @@ const DonationCard = ({ donation }) => {
 
           <Link to={`/campaign/${id}`}>
             <button
-              className="btn absolute bottom-1 md:bottom-6 capitalize px-4 py-2 rounded-[4px] text-white border-0"
+              className="btn absolute bottom-2 md:bottom-6 capitalize px-4 py-2 rounded-[4px] text-white border-0"
               style={{ backgroundColor: text_color }}
             >
               View Details
