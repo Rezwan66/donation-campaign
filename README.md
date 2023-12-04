@@ -2,6 +2,10 @@
 
 A simple responsive website, where people can donate to various humanitarian campaigns. Built using react router, tailwind CSS and Daisy UI.
 
+### Technologies Used:
+
+[![Tech](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind)](https://skillicons.dev)
+
 ### Features:
 
 - Search for a category in the search bar of the `Home` page to see campaigns by category.
@@ -15,3 +19,4 @@ A simple responsive website, where people can donate to various humanitarian cam
 ### Live Site:
 
 [Netlify](https://dazzling-zabaione-634b26.netlify.app/)
+[Surge](https://donate-now.surge.sh/)
